@@ -1,0 +1,15 @@
+generated: '2026-10-24'
+method: none
+coverage:
+  state: none
+  reason: no-mcp-docs-found
+  detail: No MCP documentation found on provider site.
+  evidence:
+    - url: https://www.huddleupcare.com
+      status: 200
+deployment:
+  mode: none
+  install: ""
+  package: ""
+  auth: none
+  verified: derived
